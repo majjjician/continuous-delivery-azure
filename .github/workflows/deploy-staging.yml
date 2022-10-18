@@ -10,7 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: majjjician--azure-ttt
-  AZURE_WEBAPP_NAME: majjjician--ttt-app
+  AZURE_WEBAPP_NAME: majjjician-ttt-app
   ###############################################
 
 jobs:
