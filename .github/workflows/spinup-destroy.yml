@@ -10,9 +10,9 @@ name: Configure Azure environment
    ### Replace <username> with GitHub username ###
    ###############################################
    AZURE_RESOURCE_GROUP: cd-with-actions
-   AZURE_APP_PLAN: <username>-ttt-deployment
-   AZURE_LOCATION: '"Central US"'
-   AZURE_WEBAPP_NAME: <username>-ttt-app
+   AZURE_APP_PLAN: majjjician-ttt-deployment
+   AZURE_LOCATION: '"Australia Southeast"'
+   AZURE_WEBAPP_NAME: majjjician-ttt-app
    ###############################################
 
  jobs:
